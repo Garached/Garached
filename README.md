@@ -17,8 +17,13 @@ Meu nome é Gabriela, sou estudante de Ciência da Computação. Estou sempre em
 
 ## 🌟 Projetos em Destaque
 
-- [Projetos WEB](link-para-o-projeto): Projetos desenvolvidos por mim para a disciplina "Desenvolvimento Web", utilizando as linguagens HTML, CSS, JavaScript, MongoDB
-- [Projetos Algoritmo](link-para-o-projeto): Projetos desenvolvidos por mim para a disciplina "Desenvolvimento de Algoritmo", utilizando as linguagens Python e C.
+- [Batalha Naval](link-para-o-projeto-batalha-naval)  
+  Projeto em **C**, implementando um jogo de tabuleiro com posicionamento aleatório de navios, sistema de tentativas e feedback visual para acertos e erros.
+
+- [Exchange de Criptomoedas](link-para-o-projeto-exchange)  
+  Projeto em **Python**, simulando uma plataforma de compra e venda de criptomoedas com lógica de negociação e cálculo de saldos.
+
+---
 
 ## 🌟 Vamos Conectar!
 
