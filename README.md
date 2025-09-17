@@ -11,6 +11,8 @@ Meu nome é Gabriela, sou estudante de Ciência da Computação. Estou sempre em
     <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+
 </div>
 
 ## 🌟 Projetos em Destaque
