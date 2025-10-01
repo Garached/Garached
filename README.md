@@ -24,6 +24,9 @@ Meu nome é Gabriela, sou estudante de Ciência da Computação. Estou sempre em
 - [Exchange de Criptomoedas](link-para-o-projeto-exchange)  
   Projeto em **Python**, simulando uma plataforma de compra e venda de criptomoedas com lógica de negociação e cálculo de saldos.
 
+- [Gestão de Tarefas ](link-para-o-projeto-exchange)  
+  Projeto de mini aplicação web para gestão de tarefas em equipes, permitindo adicionar, editar, remover e marcar tarefas como concluídas, com interface simples e funcional.
+
 ---
 
 ## 🌟 Vamos Conectar!
