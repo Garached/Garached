@@ -26,6 +26,9 @@ Meu nome é Gabriela, sou estudante de Ciência da Computação. Estou sempre em
 
 - [Gestão de Tarefas ](link-para-o-projeto-exchange)  
   Projeto de mini aplicação web para gestão de tarefas em equipes, permitindo adicionar, editar, remover e marcar tarefas como concluídas, com interface simples e funcional.
+  
+- [Guarda Roupa Virtual ](link-para-o-projeto-exchange)  
+  Aplicação web desenvolvida em React para organização e gestão de peças de vestuário. Permite editar e remover roupas, além de criar combinações de looks aleatórios. Inclui uma seção de looks de inspiração, onde o usuário pode visualizar sugestões de combinações e referências de estilo.
 
 ---
 
