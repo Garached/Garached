@@ -1,8 +1,10 @@
 # Bem-vindo ao meu perfil! 
 
-Meu nome é Gabriela, sou estudante de Ciência da Computação. Estou sempre em busca de aprender e crescer nas áreas de desenvolvimento back-end e front-end. Aqui, você encontrará um pouco sobre mim e as tecnologias que utilizo!
+Meu nome é Gabriela, sou estudante de Ciência da Computação.
+Atualmente trabalho com desenvolvimento de software, utilizando C# e TypeScript, buscando aprimorar meus conhecimentos como desenvolvedora full-stack. 
+Este GitHub reúne projetos, estudos e experiências que refletem parte da minha trajetória na área de desenvolvimento.
 
-## 🌟 Experiências
+## 🛠️ Tecnologias
 
 <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
