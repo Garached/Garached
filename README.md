@@ -1,4 +1,4 @@
-# Olá! Seja bem-vindo(a) ao meu GitHub 👋
+# Olá! Seja bem-vindo(a) ao meu GitHub 
 
 Sou Gabriela, estudante de Ciência da Computação e desenvolvedora de software, interessada em tecnologia, inovação e inteligência artificial.
 
@@ -6,14 +6,14 @@ Atualmente, atuo com desenvolvimento de software utilizando C# e TypeScript, enq
 
 Busco conectar desenvolvimento de software, IA e resolução de problemas reais, explorando novas tecnologias e construindo soluções cada vez mais inteligentes.
 
-## 🤖 Áreas de interesse e especialização
+## Áreas de interesse e especialização
 
 - **AI Builder:** aprofundamento em ferramentas, tecnologias e desenvolvimento de soluções com Inteligência Artificial.
 - **Desenvolvimento Full-Stack:** construção de aplicações web e integração entre diferentes tecnologias.
 - **Inteligência Artificial:** interesse em aplicações práticas de IA e aprendizado de máquina.
 - **Pesquisa e inovação:** desenvolvimento de projetos acadêmicos e exploração de novas abordagens tecnológicas.
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 <div>
   <img src="https://img.shields.io/badge/AI%20Builder-7B61FF?style=flat-square" />
@@ -29,7 +29,7 @@ Busco conectar desenvolvimento de software, IA e resolução de problemas reais,
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </div>
 
-## 🔬 Pesquisa e desenvolvimento
+## Pesquisa e desenvolvimento
 
 **Iniciação Científica | Detecção de Deepfakes**
 
@@ -47,7 +47,7 @@ O estudo explora características como micro movimentos faciais, padrões de pis
 
 - **Guarda-Roupa Virtual:** aplicação desenvolvida em React para organização de peças de vestuário e criação de combinações de looks.
 
-## 🤝 Vamos conectar?
+## Vamos conectar?
 
 Estou sempre aberta a conhecer novas oportunidades, trocar experiências e colaborar em projetos de tecnologia.
 
