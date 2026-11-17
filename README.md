@@ -1,55 +1,66 @@
-# Olá! Seja bem-vindo(a) ao meu GitHub 
+# Hi! Welcome to my GitHub 
 
-Sou Gabriela, estudante de Ciência da Computação e desenvolvedora de software, interessada em tecnologia, inovação e inteligência artificial.
+I'm Gabriela, a Computer Science student and Software Developer passionate about technology, innovation, and Artificial Intelligence.
 
-Atualmente, atuo com desenvolvimento de software utilizando C# e TypeScript, enquanto aprofundo meus conhecimentos em **AI Builder e soluções baseadas em Inteligência Artificial**.
+Currently, I'm working with **C# and TypeScript**, while expanding my knowledge in **AI Builder and AI-powered solutions**. I'm particularly interested in combining software development and artificial intelligence to build practical solutions and solve real-world problems.
 
-Busco conectar desenvolvimento de software, IA e resolução de problemas reais, explorando novas tecnologias e construindo soluções cada vez mais inteligentes.
+I'm always looking to learn, explore new technologies, and grow as a developer.
 
-## Áreas de interesse e especialização
+## Areas of Interest
 
-- **AI Builder:** aprofundamento em ferramentas, tecnologias e desenvolvimento de soluções com Inteligência Artificial.
-- **Desenvolvimento Full-Stack:** construção de aplicações web e integração entre diferentes tecnologias.
-- **Inteligência Artificial:** interesse em aplicações práticas de IA e aprendizado de máquina.
-- **Pesquisa e inovação:** desenvolvimento de projetos acadêmicos e exploração de novas abordagens tecnológicas.
+- **Artificial Intelligence:** AI-powered applications, intelligent agents, and automation.
+- **AI Builder:** Developing skills in AI tools and building intelligent solutions.
+- **Software Development:** Full-stack development, application architecture, and problem-solving.
+- **Research & Innovation:** Exploring computational approaches and emerging technologies.
 
-## Tecnologias
+## Technologies & Tools
 
 <div>
-  <img src="https://img.shields.io/badge/AI%20Builder-7B61FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </div>
 
-## Pesquisa e desenvolvimento
+## 🌟 Featured Projects
 
-**Iniciação Científica | Detecção de Deepfakes**
+### Empório Música AI Assistant
+AI-powered customer service agent developed in Python for a fictional musical instrument store. The assistant answers customer inquiries using product catalog information, order data, and store policies.
 
-Pesquisa acadêmica voltada à identificação de deepfakes por meio da análise de inconsistências temporais na dinâmica facial.
+**Technologies:** Python, Artificial Intelligence.
 
-O estudo explora características como micro movimentos faciais, padrões de piscadas, variações de movimento e correlações entre regiões do rosto, utilizando técnicas de processamento de dados e análise computacional.
+### Matching Engine
+Order Matching System developed as part of a Morgan Stanley case study, exploring the logic behind matching buy and sell orders.
 
-## 🌟 Projetos em destaque
+**Technology:** C#.
 
-- **Batalha Naval:** jogo desenvolvido em C, com posicionamento aleatório de navios, sistema de tentativas e feedback de acertos e erros.
+### Irriga Dantas
+Website modernization project for Irriga Dantas, a company specializing in irrigation solutions. Developed from scratch with a focus on performance, mobile responsiveness, and AI-assisted development.
 
-- **Exchange de Criptomoedas:** aplicação em Python que simula operações de compra e venda de criptomoedas, com lógica de negociação e controle de saldos.
+**Technology:** TypeScript.
 
-- **Gestão de Tarefas:** aplicação web para gerenciamento de atividades em equipe, com funcionalidades de criação, edição, remoção e conclusão de tarefas.
+### Virtual Wardrobe
+Mobile application developed with React Native and Expo, allowing users to organize clothing items, create outfits, and explore personalized style inspirations.
 
-- **Guarda-Roupa Virtual:** aplicação desenvolvida em React para organização de peças de vestuário e criação de combinações de looks.
+**Technologies:** JavaScript, React Native, Expo.
 
-## Vamos conectar?
+## 🔬 Research Experience
 
-Estou sempre aberta a conhecer novas oportunidades, trocar experiências e colaborar em projetos de tecnologia.
+**Undergraduate Research | Deepfake Detection**
+
+Research focused on detecting deepfakes through temporal inconsistencies in facial microdynamics.
+
+The project explores facial movement patterns, blinking behavior, and variations in facial landmarks to identify potential signs of manipulated videos.
+
+## Let's Connect!
+
+I'm always open to new opportunities, collaborations, and conversations about technology.
 
 [![Email](https://img.shields.io/badge/Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:gabiracheddantas@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-abi-rached-dantas-8b04a7330/)
